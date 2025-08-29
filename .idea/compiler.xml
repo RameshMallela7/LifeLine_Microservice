@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="APIGatewayJWTService" />
+        <module name="EurekaRegisterService" />
+      </profile>
+      <profile name="Annotation profile for PublicUserService" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/unknown/lombok-unknown.jar" />
+        </processorPath>
+        <module name="HospitalService" />
+        <module name="PublicUserService" />
+        <module name="NotificationService" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="PublicService" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="APIGatewayJWTService" options="-parameters" />
+      <module name="EurekaRegisterService" options="-parameters" />
+      <module name="HospitalService" options="-parameters" />
+      <module name="NotificationService" options="-parameters" />
+      <module name="PublicService" options="-parameters" />
+      <module name="PublicUserService" options="-parameters" />
+    </option>
+  </component>
+</project>
