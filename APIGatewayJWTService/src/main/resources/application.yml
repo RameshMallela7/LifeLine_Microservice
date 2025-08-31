@@ -4,19 +4,21 @@ spring:
 
   cloud:
     gateway:
-      routes:
-        - id: public-user-service
-          uri: lb://PUBLIC-USER-SERVICE
-          predicates:
-            - Path=/public/**
-          filters:
-            - StripPrefix=1
-        - id: hospital-user-service
-          uri: lb://HOSPITAL-USER-SERVICE
-          predicates:
-            - Path=/hospital/**
-          filters:
-            - StripPrefix=1
+      server:
+        webflux:
+          routes:
+            - id: public-user-service
+              uri: lb://PUBLIC-USER-SERVICE
+              predicates:
+                - Path=/public/**
+              filters:
+                - StripPrefix=1
+            - id: hospital-user-service
+              uri: lb://HOSPITAL-USER-SERVICE
+              predicates:
+                - Path=/hospital/**
+              filters:
+                - StripPrefix=1
 
 server:
   port: 8080

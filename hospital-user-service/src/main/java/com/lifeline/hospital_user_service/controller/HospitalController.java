@@ -15,12 +15,12 @@ public class HospitalController {
 
     @GetMapping("/hospital-user")
     public String getHospitalUser() {
-        return restTemplate.getForObject("http://public-user-service/public/user", String.class);
+        return restTemplate.getForObject("http://public-user-service/user", String.class);
     }
 
     @GetMapping("/all")
     public String getAllHospitalUsers() {
-        return restTemplate.getForObject("http://public-user-service/public/all", String.class);
+        return restTemplate.getForObject("http://public-user-service/all", String.class);
     }
     
     @GetMapping("/all1")
