@@ -1,6 +1,6 @@
 spring:
   application:
-    name: APIGatewayJWTService
+    name: api-gateway-jwt-service
 
   cloud:
     gateway:

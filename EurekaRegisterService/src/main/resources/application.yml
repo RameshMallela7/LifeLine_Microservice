@@ -1,6 +1,6 @@
 spring:
     application:
-        name: EurekaRegisterService
+        name: eureka-register-service
 
 server:
     port: 8761
