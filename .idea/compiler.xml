@@ -10,7 +10,7 @@
         <module name="APIGatewayJWTService" />
         <module name="EurekaRegisterService" />
       </profile>
-      <profile name="Annotation profile for PublicUserService" enabled="true">
+      <profile name="Annotation profile for public-user-service" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
@@ -19,7 +19,7 @@
         </processorPath>
         <module name="public-user-service" />
         <module name="hospital-user-service" />
-        <module name="NotificationService" />
+        <module name="notification-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -33,10 +33,10 @@
       <module name="APIGatewayJWTService" options="-parameters" />
       <module name="EurekaRegisterService" options="-parameters" />
       <module name="HospitalService" options="-parameters" />
-      <module name="NotificationService" options="-parameters" />
       <module name="PublicService" options="-parameters" />
       <module name="PublicUserService" options="-parameters" />
       <module name="hospital-user-service" options="-parameters" />
+      <module name="notification-service" options="-parameters" />
       <module name="public-user-service" options="-parameters" />
     </option>
   </component>
