@@ -1,0 +1,224 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6">
+  <diagram name="Page-1" id="vxktUeJqrZU13LSvp0Ff">
+    <mxGraphModel dx="1042" dy="1726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NK7JRGJNXhWVqIlTA4FW-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="620" width="740" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="i5A7cUCSLx5ugamwF4Ga-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="i5A7cUCSLx5ugamwF4Ga-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="260" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i5A7cUCSLx5ugamwF4Ga-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="i5A7cUCSLx5ugamwF4Ga-6" target="i5A7cUCSLx5ugamwF4Ga-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i5A7cUCSLx5ugamwF4Ga-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="150" width="120" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="i5A7cUCSLx5ugamwF4Ga-8" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" parent="1" vertex="1">
+          <mxGeometry x="360" y="5" width="640" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="i5A7cUCSLx5ugamwF4Ga-10" value="." style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;" parent="1" vertex="1">
+          <mxGeometry x="380" y="80" width="340" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="i5A7cUCSLx5ugamwF4Ga-13" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="230" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i5A7cUCSLx5ugamwF4Ga-16" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="880" y="70" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="i5A7cUCSLx5ugamwF4Ga-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="i5A7cUCSLx5ugamwF4Ga-17" target="i5A7cUCSLx5ugamwF4Ga-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i5A7cUCSLx5ugamwF4Ga-17" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="420" y="150" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="i5A7cUCSLx5ugamwF4Ga-18" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="850" y="380" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="i5A7cUCSLx5ugamwF4Ga-19" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="590" y="150" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="i5A7cUCSLx5ugamwF4Ga-21" value="React JS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="190" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i5A7cUCSLx5ugamwF4Ga-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="i5A7cUCSLx5ugamwF4Ga-19" target="i5A7cUCSLx5ugamwF4Ga-16" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="180" as="sourcePoint" />
+            <mxPoint x="770" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i5A7cUCSLx5ugamwF4Ga-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="i5A7cUCSLx5ugamwF4Ga-18" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="410" as="sourcePoint" />
+            <mxPoint x="770" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i5A7cUCSLx5ugamwF4Ga-24" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Amazon web services&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="630" y="-40" width="180" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="i5A7cUCSLx5ugamwF4Ga-26" value="EC2 or EKS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="435" y="50" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i5A7cUCSLx5ugamwF4Ga-27" value="App service" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="435" y="120" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i5A7cUCSLx5ugamwF4Ga-28" value="Notification service" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="605" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i5A7cUCSLx5ugamwF4Ga-29" value="AWS lambda" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="880" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i5A7cUCSLx5ugamwF4Ga-30" value="AWS RDS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="890" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NK7JRGJNXhWVqIlTA4FW-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NK7JRGJNXhWVqIlTA4FW-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NK7JRGJNXhWVqIlTA4FW-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NK7JRGJNXhWVqIlTA4FW-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="590" y="812.5" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="NK7JRGJNXhWVqIlTA4FW-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="630" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NK7JRGJNXhWVqIlTA4FW-6" value="Public service" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="410" y="710" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NK7JRGJNXhWVqIlTA4FW-7" value="Hospital service" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="410" y="815" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NK7JRGJNXhWVqIlTA4FW-8" value="Admin service" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="410" y="935" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NK7JRGJNXhWVqIlTA4FW-9" value="MML(Kafka)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="615" y="815" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NK7JRGJNXhWVqIlTA4FW-10" value="Notification service" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="665" y="705" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NK7JRGJNXhWVqIlTA4FW-11" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="810" as="sourcePoint" />
+            <mxPoint x="640" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NK7JRGJNXhWVqIlTA4FW-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NK7JRGJNXhWVqIlTA4FW-2" target="NK7JRGJNXhWVqIlTA4FW-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="810" as="sourcePoint" />
+            <mxPoint x="570" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NK7JRGJNXhWVqIlTA4FW-13" value="Producer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="514" y="830" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NK7JRGJNXhWVqIlTA4FW-14" value="consumer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="640" y="770" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NK7JRGJNXhWVqIlTA4FW-16" value="&lt;b&gt;App service (Microservice )&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="458" y="580" width="172" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="S5GtdwZr5TdRPACq-Vru-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1100" y="650" width="380" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="S5GtdwZr5TdRPACq-Vru-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Future services&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1210" y="620" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S5GtdwZr5TdRPACq-Vru-3" value="Blood group matching service" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1140" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S5GtdwZr5TdRPACq-Vru-4" value="Location service" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1140" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S5GtdwZr5TdRPACq-Vru-5" value="&lt;span style=&quot;color: rgb(55, 65, 81); font-family: __Inter_e8ce0c, __Inter_Fallback_e8ce0c, ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 10px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Uses GPS to find nearby donors or blood banks.&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1270" y="795" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S5GtdwZr5TdRPACq-Vru-7" value="&lt;span style=&quot;--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(59,130,246,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; box-sizing: border-box; border: 0px solid rgb(228, 228, 231); color: rgb(17, 24, 39); text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;&quot;&gt;Appointment Scheduling&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1140" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S5GtdwZr5TdRPACq-Vru-8" value="&lt;span style=&quot;color: rgb(55, 65, 81); font-family: __Inter_e8ce0c, __Inter_Fallback_e8ce0c, ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 10px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Uses to do appointments and send notification before appoint time&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1270" y="885" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S5GtdwZr5TdRPACq-Vru-9" value="Verification" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1140" y="965" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S5GtdwZr5TdRPACq-Vru-10" value="&lt;span style=&quot;color: rgb(55, 65, 81); font-family: __Inter_e8ce0c, __Inter_Fallback_e8ce0c, ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 10px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Uses to do verification of all doc and user details before successful registrion&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1275" y="980" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="deOFUhURXbISj46_5wCQ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="deOFUhURXbISj46_5wCQ-1" target="deOFUhURXbISj46_5wCQ-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="deOFUhURXbISj46_5wCQ-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="800" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="deOFUhURXbISj46_5wCQ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="deOFUhURXbISj46_5wCQ-2" target="NK7JRGJNXhWVqIlTA4FW-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="deOFUhURXbISj46_5wCQ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="deOFUhURXbISj46_5wCQ-2" target="NK7JRGJNXhWVqIlTA4FW-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="deOFUhURXbISj46_5wCQ-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="800" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="deOFUhURXbISj46_5wCQ-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="deOFUhURXbISj46_5wCQ-2" target="NK7JRGJNXhWVqIlTA4FW-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="890" as="sourcePoint" />
+            <mxPoint x="560" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="deOFUhURXbISj46_5wCQ-7" value="Eureka Service" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="810" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="deOFUhURXbISj46_5wCQ-8" value="API Gateway,&lt;br&gt;JWT Login" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="225" y="810" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="deOFUhURXbISj46_5wCQ-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="deOFUhURXbISj46_5wCQ-16" target="deOFUhURXbISj46_5wCQ-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="deOFUhURXbISj46_5wCQ-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="1470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="deOFUhURXbISj46_5wCQ-17" value="MicroService Sptingboot" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="120" y="1430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="deOFUhURXbISj46_5wCQ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="deOFUhURXbISj46_5wCQ-18" target="deOFUhURXbISj46_5wCQ-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="deOFUhURXbISj46_5wCQ-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="1470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="deOFUhURXbISj46_5wCQ-20" value="Docker" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="320" y="1440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="deOFUhURXbISj46_5wCQ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="deOFUhURXbISj46_5wCQ-21" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="605" y="1380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="deOFUhURXbISj46_5wCQ-21" value="AWS ECR&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="545" y="1470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="deOFUhURXbISj46_5wCQ-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="deOFUhURXbISj46_5wCQ-24" target="deOFUhURXbISj46_5wCQ-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="deOFUhURXbISj46_5wCQ-24" value="AWS ECS" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="1310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="deOFUhURXbISj46_5wCQ-26" value="EC2" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="1310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3QPV5LhBgYnuUJK8Rxn5-2" value="&lt;ol&gt;&lt;li&gt;Request routing&lt;/li&gt;&lt;li&gt;Load balancing&lt;/li&gt;&lt;li&gt;Authentication/Authorization (JWT, OAuth2)&lt;/li&gt;&lt;li&gt;Rate limiting&lt;/li&gt;&lt;li&gt;Logging &amp;amp; monitoring&lt;/li&gt;&lt;li&gt;Circuit breaking / retries&lt;/li&gt;&lt;li&gt;Service discovery (static or dynamic)&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="180" y="845" width="215" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
