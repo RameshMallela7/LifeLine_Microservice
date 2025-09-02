@@ -5,10 +5,13 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 import org.springframework.cloud.client.loadbalancer.LoadBalanced;
 import org.springframework.context.annotation.Bean;
+import org.springframework.kafka.annotation.EnableKafka;
+import org.springframework.kafka.core.KafkaTemplate;
 import org.springframework.web.client.RestTemplate;
 
 @SpringBootApplication
 @EnableDiscoveryClient
+@EnableKafka
 public class HospitalUserServiceApplication {
 
 	public static void main(String[] args) {
@@ -20,4 +23,8 @@ public class HospitalUserServiceApplication {
 	public RestTemplate getRestTemplate() {
 		return new RestTemplate();
 	}
+	
+	
+	
+	
 }
