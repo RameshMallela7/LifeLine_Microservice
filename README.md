@@ -1,7 +1,7 @@
 Kafka commanda :
 =======================
 
-    Start Zookeeper : -- .\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties   (default port:2181)
+    Start Zookeeper : --  .\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties   (default port:2181)
     Strat Kafka : -- C:\Users\mallelar\kafka>.\bin\windows\kafka-server-start.bat .\config\server.properties   (default port:9091)
 
         first create topic :

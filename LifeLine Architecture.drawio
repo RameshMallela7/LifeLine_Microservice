@@ -1,10 +1,10 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.1.2">
   <diagram name="Page-1" id="vxktUeJqrZU13LSvp0Ff">
-    <mxGraphModel dx="1042" dy="1726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="703" dy="1538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NK7JRGJNXhWVqIlTA4FW-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="NK7JRGJNXhWVqIlTA4FW-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
           <mxGeometry x="50" y="620" width="740" height="410" as="geometry" />
         </mxCell>
         <mxCell id="i5A7cUCSLx5ugamwF4Ga-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="i5A7cUCSLx5ugamwF4Ga-6" edge="1">
@@ -215,7 +215,7 @@
         <mxCell id="deOFUhURXbISj46_5wCQ-26" value="EC2" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="1310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3QPV5LhBgYnuUJK8Rxn5-2" value="&lt;ol&gt;&lt;li&gt;Request routing&lt;/li&gt;&lt;li&gt;Load balancing&lt;/li&gt;&lt;li&gt;Authentication/Authorization (JWT, OAuth2)&lt;/li&gt;&lt;li&gt;Rate limiting&lt;/li&gt;&lt;li&gt;Logging &amp;amp; monitoring&lt;/li&gt;&lt;li&gt;Circuit breaking / retries&lt;/li&gt;&lt;li&gt;Service discovery (static or dynamic)&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+        <mxCell id="3QPV5LhBgYnuUJK8Rxn5-2" value="&lt;ol&gt;&lt;li&gt;Request routing&lt;/li&gt;&lt;li&gt;Load balancing&lt;/li&gt;&lt;li&gt;Authentication/Authorization (JWT, OAuth2)&lt;/li&gt;&lt;li&gt;Rate limiting&lt;/li&gt;&lt;li&gt;Logging &amp;amp; monitoring&lt;/li&gt;&lt;li&gt;Circuit breaking / retries&lt;/li&gt;&lt;li&gt;Service discovery (static or dynamic)&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" parent="1" vertex="1">
           <mxGeometry x="180" y="845" width="215" height="160" as="geometry" />
         </mxCell>
       </root>

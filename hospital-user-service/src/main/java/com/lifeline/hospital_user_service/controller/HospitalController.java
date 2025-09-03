@@ -36,7 +36,7 @@ public class HospitalController {
     
     @GetMapping("/all1")
     public String getAllHospitalUsers1() {
-        return "internal string from Hospital";
+        return "internal string from Hospital service";
     }
     
     
