@@ -12,4 +12,5 @@ public class PublicUserServiceApplication {
 		SpringApplication.run(PublicUserServiceApplication.class, args);
 	}
 
+	
 }

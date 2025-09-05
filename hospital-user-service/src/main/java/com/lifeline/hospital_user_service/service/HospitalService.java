@@ -9,13 +9,12 @@ public class HospitalService {
 	
 	@Autowired
 	private KafkaTemplate<String , String> kafkaTemplet;
-	
-	
-	public String testKafka(String body) {
-		kafkaTemplet.send("lifelineTopic", "Test mesage from application : "+body);
-		System.out.println("sent sucessfully");
-		return "sent sucessfully";
-		
+
+
+	public String notifyKafka(String bloodgroup) {
+		kafkaTemplet.send("lifelineTopic", bloodgroup);
+		System.out.println("sent notification sucessfully");
+		return "sent notification sucessfully";
 	}
 
 }

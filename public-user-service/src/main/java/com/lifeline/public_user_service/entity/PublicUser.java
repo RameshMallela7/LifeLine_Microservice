@@ -14,6 +14,7 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @Builder
 public class PublicUser {
+	private Integer id;
     private String name;
     private String email;
     private String phone;

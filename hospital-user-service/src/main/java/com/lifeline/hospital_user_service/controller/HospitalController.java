@@ -34,26 +34,14 @@ public class HospitalController {
         return restTemplate.getForObject("http://public-user-service/all", String.class);
     }
     
-    @GetMapping("/all1")
-    public String getAllHospitalUsers1() {
-        return "internal string from Hospital service";
+   
+    
+    @PostMapping("/notify/{blood-group}")
+    public String notify(@PathVariable("blood-group") String bloodgroup) {
+    	System.out.println(bloodgroup);
+        return hospitalService.notifyKafka(bloodgroup);
     }
     
     
-    @GetMapping("/path/{body}")
-    public String postMethodName(@PathVariable("body") String body) {
-
-    	System.out.println(body);
-        return hospitalService.testKafka(body);
-    }
-    
-    
-    
-    @GetMapping("/dummy123")
-    public String postMethodName1(@RequestParam(name= "body") String body) {
-
-    	System.out.println(body);
-        return body;
-    }
     
    }

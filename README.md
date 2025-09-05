@@ -17,7 +17,28 @@ Kafka commanda :
             C:\Users\mallelar\kafka\bin\windows> .\bin\windows\kafka-topics.bat --list --bootstrap-server=localhost:9092
 
 
-            https://www.geeksforgeeks.org/advance-java/microservices-communication-with-apache-kafka-in-spring-boot/
-            https://www.bing.com/videos/riverview/relatedvideo?q=springboot+microservies+with+kafka&&mid=FE3252F7A9CDD99F6C81FE3252F7A9CDD99F6C81&FORM=VAMGZC
-            
+
+Topics need to implement :
+==============================
+
+    Records
+    Sealed
+    Patter Matching
+    Pagination and filtering
+    Database Access :
+        Lazy loading -fetch type
+        Transctions
+        Custom queries
+        flyway or liquibase
+        Redis for caching DB data for enhancing
+        TestContainers for DB testing
+    Testing :
+        MockMVC, WebTestCLient, Integration Testing
+        TestContainers for DB testing
+        Mockito
+    API client- EXternal API call
+        RestTemplete -- legacy
+        WebClient -- Reactive
+    Centralized logs - ELK
+    Reactive Programming             
             
