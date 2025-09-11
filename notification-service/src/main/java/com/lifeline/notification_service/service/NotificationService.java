@@ -11,6 +11,7 @@ public class NotificationService {
 	public void notifyMessage(String message) {
 		
 		System.out.println("Reciver message : - "+ message);
+		
 	}
 
 }

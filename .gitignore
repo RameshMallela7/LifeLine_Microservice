@@ -1,0 +1,38 @@
+# Maven build directory
+target/
+
+# Logs
+*.log
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Java class files
+*.class
+
+# Environment files
+.env
+
+# Node modules (if any frontend)
+node_modules/
+
+# JAR/WAR/EAR files
+*.jar
+*.war
+*.ear
+
+# Backup and swap files
+*~
+*.swp
+
+# OneDrive temp files
+~$*
+
+# Test output
+test-output/
